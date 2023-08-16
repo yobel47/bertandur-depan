@@ -1,0 +1,7 @@
+.map-container {
+  height: 400px;
+}
+
+.mapboxgl-ctrl.mapboxgl-ctrl-group.mapbox-control.mapbox-zoom svg {
+  display: inline;
+}
